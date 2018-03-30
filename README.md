@@ -1,1 +1,1 @@
-# learning
+# Learning note repository
