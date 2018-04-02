@@ -1,4 +1,4 @@
-## New.Target ##
+## new.target ##
 
 我們都知道 new 是一個 javascript 的關鍵字
 他主要是讓我們用來建立一個 instance 的
